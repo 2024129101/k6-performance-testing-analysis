@@ -243,6 +243,4 @@ Overall, K6 proved to be an effective tool for analyzing application performance
 
 ---
 
-# 11. YouTube Demonstration Video
 
-Paste your YouTube video link here.
